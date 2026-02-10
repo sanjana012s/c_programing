@@ -11,10 +11,8 @@
 
 > **A comprehensive repository showcasing fundamental to advanced C programming concepts with practical examples and real-world implementations.**
 
-![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen?style=flat-square)
-![Language](https://img.shields.io/badge/Language-C-important?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Progress](https://github.com/sanjana012s)
+![Language](https://github.com/sanjana012s?tab=repositories)
 
 ---
 
@@ -35,10 +33,9 @@ This repository contains a structured collection of **C programming practice pro
 
 ### 📌 Table of Contents
 1. [Chapter Structure](#-chapter-structure)
-2. [Folder Organization](#-folder-organization)
-3. [Topics Covered](#-topics-covered)
-4. [How to Use](#-how-to-use)
-5. [Program Categories](#-program-categories)
+2. [Topics Covered](#-topics-covered)
+3. [How to Use](#-how-to-use)
+4. [Program Categories](#-program-categories)
 
 ---
 
